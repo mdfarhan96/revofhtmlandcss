@@ -1,0 +1,32 @@
+*/z form {
+  border: 0.5px solid black;
+  padding: 10px;
+}
+.cont {
+  background-color: rgb(255, 47, 75);
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.bd {
+  color: aliceblue;
+  background-color: rgb(28, 151, 48);
+  background-color: orangered;
+}
+.box {
+  width: 300px;
+  height: 100px;
+  background-color: rgb(151, 28, 141);
+  padding: 50px;
+  margin: 20px;
+}
+.main {
+  border: 1.7px solid red;
+  background-color: slateblue;
+  color: blue;
+  margin: 15px;
+  padding: 20px;
+  text-align: center;
+  font-size: 30px;
+}
